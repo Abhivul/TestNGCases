@@ -14,6 +14,7 @@ public class FirstCase {
 	@Test
 	public void fc(){
 		System.out.println("fc");
+		System.out.println("git fc");
 		
 	}
 	@Test
