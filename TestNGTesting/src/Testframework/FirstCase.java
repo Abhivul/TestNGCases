@@ -20,6 +20,7 @@ public class FirstCase {
 	@Test
 	public void SC(){
 		System.out.println("SC");
+		System.out.println("git fc");
 		
 	}
 	@Test
